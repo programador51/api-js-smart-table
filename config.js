@@ -1,6 +1,6 @@
 const mysql = require('mysql');
 
-const URL_FETCH = `http://localhost/ADBD/`;
+const URL_FETCH = `https://demo-js-smart-table.herokuapp.com`;
 
 /* Toggle the comments when the code its released to
 production */
